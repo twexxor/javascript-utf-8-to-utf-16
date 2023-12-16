@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "Will Parsons",
+    "url": "https://www.linkedin.com/in/twexxor/"
+  },
+  "bugs": {
+    "url": "https://entrocraft.com/contact/"
+  },
+  "description": "Convert UTF-8 to UTF-16 encoding.",
+  "funding": "https://entrocraft.com/",
+  "homepage": "https://entrocraft.com/",
+  "keywords": [
+    "browser",
+    "client-side",
+    "conversion",
+    "convert",
+    "converter",
+    "server-side",
+    "transcode",
+    "transcoder",
+    "unicode",
+    "utf-8",
+    "utf8",
+    "utf-16",
+    "utf16"
+  ],
+  "license": "MIT",
+  "name": "@entrocraft/utf-8-to-utf-16",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twexxor/javascript-utf-8-to-utf-16.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "1.0.2"
+}
